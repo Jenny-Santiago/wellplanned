@@ -1,0 +1,20 @@
+{
+  "name": "wellplanned-client-analysis",
+  "version": "1.0.0",
+  "description": "Lambda para análisis de workloads de clientes en S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lambda",
+    "aws",
+    "wellplanned",
+    "analysis"
+  ],
+  "author": "JSS",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.0.0"
+  }
+}

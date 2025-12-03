@@ -1,0 +1,9 @@
+{
+  "name": "lambda-clients-get",
+  "version": "1.0.0",
+  "description": "Lambda function to get all clients",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.x.x"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "wellplanned-workloads-get",
+    "version": "1.0.0",
+    "description": "Lambda function to list workloads of clients by year",
+    "main": "index.js",
+    "dependencies": {
+        "@aws-sdk/client-s3": "^3.x.x"
+    }
+}
