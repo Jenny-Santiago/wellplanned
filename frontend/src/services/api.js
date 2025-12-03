@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://asr5khn2e0.execute-api.us-east-2.amazonaws.com/dev/';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
 
 // Servicio principal para todas las operaciones
 export const apiService = {
